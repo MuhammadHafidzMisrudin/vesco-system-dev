@@ -121,3 +121,29 @@ h3 {
                 BUTTONS END
    =========================================  
 */
+
+
+/* 
+   =========================================
+              ANIMATIONS (Generic)
+   =========================================  
+*/
+#home-cover {
+    animation-delay: 0.2s;
+    animation-duration: 0.5s;
+}
+
+#home-heading {
+    animation-delay: 1s;
+    animation-duration: 1s;
+}
+
+#home-btn {
+    animation-delay: 2s;
+    animation-duration: 1s;
+}
+/* 
+   =========================================
+                ANIMATIONS END
+   =========================================  
+*/
