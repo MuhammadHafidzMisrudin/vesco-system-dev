@@ -35,10 +35,11 @@ h3 {
 
 #home-cover {
     height: 100%;
-    background-image: url("../img/bg-home.jpg");
+    background-image: url("../img/bg-home.jpg"); /* add div with background image */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    background-attachment: fixed; /* make parallax scrolling effect */
 }
 
 #home-content-box {
@@ -73,9 +74,28 @@ h3 {
    =========================================  
 */
 
+
 /* 
    =========================================
-                    BUTTONS (Generic)
+              PARALLAX EFFECT (Generic)
+   =========================================  
+*/
+.bg-parallax-effect-general {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* make parallax scrolling effect */
+}
+/* 
+   =========================================
+              PARALLAX EFFECT END
+   =========================================  
+*/
+
+
+/* 
+   =========================================
+                BUTTONS (Generic)
    =========================================  
 */
 .btn-general { 
@@ -98,6 +118,6 @@ h3 {
 }
 /* 
    =========================================
-                    BUTTONS END
+                BUTTONS END
    =========================================  
 */
