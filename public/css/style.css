@@ -116,6 +116,12 @@ h3 {
     background-color: #fff;
     color: #41464b;
 }
+
+.btn-white:active {
+    transform: translateY(6px);
+    transition: transform 0.7s;
+    outline: none;
+}
 /* 
    =========================================
                 BUTTONS END
