@@ -256,6 +256,18 @@ p {
                   ABOUT US
    =========================================  
 */
+
+/* Right Side */
+#about-bg-diagonal {
+    width: 60%;
+    height: 700px;
+    float: right;
+    background-image: url(../img/bg-about.jpg);
+    border-left: 200px solid white;
+    border-top: 700px solid transparent;
+}
+
+/* Left Side */
 #about-content-box {
     float: left; /* specify an element to be placed along the left side of its container */
     height: 700px;
