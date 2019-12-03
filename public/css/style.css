@@ -334,9 +334,15 @@ p {
     overflow: hidden;
 }
 
+/* make transition smoothly */
+.img-wrapper img {
+    transition: transform 0.5s ease;
+}
+
 /* add zoom effect when mouse over on images */
 .img-wrapper img:hover {
     transform: scale(1.5); /* change the size of image element */
+    transition: transform 0.5s ease;
 }
 /* 
    =========================================
