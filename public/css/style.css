@@ -256,7 +256,7 @@ p {
                   ABOUT US
    =========================================  
 */
-/* Right Side */
+/* right side */
 #about-bg-diagonal {
     width: 60%;
     height: 700px;
@@ -266,7 +266,7 @@ p {
     border-top: 700px solid transparent;
 }
 
-/* Left Side */
+/* left side */
 #about-content-box {
     float: left; /* specify an element to be placed along the left side of its container */
     height: 700px;
@@ -327,6 +327,16 @@ p {
 .row.no-blank-space [class*=col-] {
     padding-right: 0px;
     padding-left: 0px;
+}
+
+/* hide overflow of image */
+.img-wrapper {
+    overflow: hidden;
+}
+
+/* add zoom effect when mouse over on images */
+.img-wrapper img:hover {
+    transform: scale(1.5); /* change the size of image element */
 }
 /* 
    =========================================
