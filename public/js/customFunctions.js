@@ -16,7 +16,7 @@ $(() => {
 */
 // make functions available after page is empty.
 $(() => {
-    // popup initialization. 
+    // magnific popup initialization. 
     $('#work').magnificPopup({
         delegate: 'a', // child items selector, by clicking on it popup will open.
         type: 'image',
@@ -24,4 +24,15 @@ $(() => {
             enabled: true 
         }
     });
+});
+
+/* 
+=============================================
+                    TEAM
+=============================================
+*/
+// make functions available after page is empty.
+$(() => {
+    // call the owl initializer function.
+    $("#team-members-wrapper.owl-carousel").owlCarousel();
 });
