@@ -37,6 +37,7 @@ $(() => {
     $("#team-members-wrapper.owl-carousel").owlCarousel({
         items: 3,
         autoplay: true,
-        loop: true
+        loop: true,
+        autoplayTimeout:3000
     });
 });
