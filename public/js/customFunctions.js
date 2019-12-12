@@ -34,5 +34,9 @@ $(() => {
 // make functions available after page is empty.
 $(() => {
     // call the owl initializer function.
-    $("#team-members-wrapper.owl-carousel").owlCarousel();
+    $("#team-members-wrapper.owl-carousel").owlCarousel({
+        items: 3,
+        autoplay: true,
+        loop: true
+    });
 });
