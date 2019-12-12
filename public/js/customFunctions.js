@@ -38,6 +38,7 @@ $(() => {
         items: 3,
         autoplay: true,
         loop: true,
-        autoplayTimeout:3000
+        autoplayTimeout:3000,
+        smartSpeed: 700
     });
 });
