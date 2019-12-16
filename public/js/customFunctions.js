@@ -38,7 +38,8 @@ $(() => {
         items: 3,
         autoplay: true,
         loop: true,
-        autoplayTimeout:3000,
-        smartSpeed: 700
+        autoplayTimeout:2000,
+        smartSpeed: 500,
+        autoplayHoverPause: true
     });
 });

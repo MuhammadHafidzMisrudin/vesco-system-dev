@@ -382,6 +382,11 @@ p {
     letter-spacing: 1px;
     margin-top: 5px;
 }
+
+.team-member-name:hover {
+    color: chartreuse;
+    transition: color 0.5s ease;
+}
 /* 
    =========================================
                   TEAM END 
@@ -405,6 +410,19 @@ p {
     height: 32px;
     margin-right: 6px;
     margin-top: 10px;
+}
+
+.social-icon i {
+    font-size: 20px;
+}
+
+.icon-gray i {
+    color: #64707b;
+}
+
+/* mouseover/hover effect for color change */
+.social-icon i:hover {
+    color: #34c6d3;
 }
 /* 
    =========================================
