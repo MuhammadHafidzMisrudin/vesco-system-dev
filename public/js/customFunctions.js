@@ -35,7 +35,7 @@ $(() => {
 $(() => {
     // call the owl initializer function.
     $("#team-members-wrapper.owl-carousel").owlCarousel({
-        items: 3,
+        items: 3, /* to display 3 items at a time in slider */
         autoplay: true,
         loop: true,
         autoplayTimeout:2000,
