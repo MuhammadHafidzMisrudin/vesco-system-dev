@@ -49,3 +49,15 @@ $(() => {
                 TESTIMONIALS
 =============================================
 */
+// make functions available after page is empty.
+$(() => {
+    // call the owl initializer function.
+    $("#customer-testimonials.owl-carousel").owlCarousel({
+        items: 1, /* to display 1 item at a time in slider */
+        autoplay: true,
+        loop: true,
+        autoplayTimeout:2000,
+        smartSpeed: 500,
+        autoplayHoverPause: true
+    });
+});
