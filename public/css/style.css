@@ -440,6 +440,7 @@ p {
                 TESTIMONIALS
    =========================================  
 */
+/* background image */
 #testimonials-cover {
     background-image: url("../img/bg-testimonials.jpg");
 }
