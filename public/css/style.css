@@ -447,9 +447,18 @@ p {
 
 /* create an overlay effect & dim background color */
 #testimonials .content-box {
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.2);
 }
-/* 
+
+#customer-testimonials {
+    padding: 50px 0;
+}
+
+.testimonial img {
+    max-width: 120px;
+    margin: 0 auto 0 auto; /* set image element to be center aligned */
+}
+/*
    =========================================
               TESTIMONIALS END
    =========================================  
