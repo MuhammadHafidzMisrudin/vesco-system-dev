@@ -470,6 +470,26 @@ p {
 .testimonial blockquote p {
     color: #ffffff;
 }
+
+/* add generic styles for quotation marks */
+.testimonial blockquote::before, 
+.testimonial blockquote::after {
+    font-size: 80px;
+    font-style: normal;
+    line-height: 1; /* define the amount of space above and below in the lines */
+    width: 30px;
+    height: 30px;
+} 
+
+/* add a left quotation mark */
+.testimonial blockquote::before {
+    content: "\201C";
+}
+
+/* add a right quotation mark */
+.testimonial blockquote::after {
+    content: "\201D";
+}
 /*
    =========================================
               TESTIMONIALS END
