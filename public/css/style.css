@@ -496,6 +496,15 @@ p {
     bottom: 0; /* set position */
     right: 100px; /* set position */
 }
+
+.testimonial-author p {
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.testimonial-author p strong {
+    display: block;
+}
 /*
    =========================================
               TESTIMONIALS END
