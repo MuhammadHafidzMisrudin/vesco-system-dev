@@ -465,6 +465,7 @@ p {
     font-style: italic;
     color: #ffffff;
     padding: 6px 150px;
+    position: relative; /* set elements to be position relative to this blockquote element */
 }
 
 .testimonial blockquote p {
@@ -479,16 +480,21 @@ p {
     line-height: 1; /* define the amount of space above and below in the lines */
     width: 30px;
     height: 30px;
+    position: absolute; /* set elements position relative to parent element */
 } 
 
 /* add a left quotation mark */
 .testimonial blockquote::before {
     content: "\201C";
+    top: 0; /* set position */
+    left: 100px; /* set position */
 }
 
 /* add a right quotation mark */
 .testimonial blockquote::after {
     content: "\201D";
+    bottom: 0; /* set position */
+    right: 100px; /* set position */
 }
 /*
    =========================================
