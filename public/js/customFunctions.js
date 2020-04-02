@@ -56,8 +56,8 @@ $(() => {
         items: 1, /* to display 1 item at a time in slider */
         autoplay: true,
         loop: true,
-        autoplayTimeout:2000,
-        smartSpeed: 500,
+        autoplayTimeout:3000,
+        smartSpeed: 700,
         autoplayHoverPause: true
     });
 });
