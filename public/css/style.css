@@ -510,3 +510,27 @@ p {
               TESTIMONIALS END
    =========================================  
 */
+
+
+/* 
+   =========================================
+                  PRICING
+   =========================================  
+*/
+.pricing-box {
+    border: 3px solid #34c6d3;
+    padding: 50px 0;
+    margin: 40px 0;
+}
+
+h4.pricing-title {
+    background-color: #34c6d3;
+    color: #ffffff;
+    display: inline-block;
+    padding: 7px 15px;
+}
+/* 
+   =========================================
+                PRICING END
+   =========================================  
+*/
