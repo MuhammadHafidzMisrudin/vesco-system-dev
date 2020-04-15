@@ -555,6 +555,22 @@ ul.pricing-spec li p {
     font-weight: 400;
     text-transform: uppercase;
 }
+
+/* custom styles for middle pricing container */
+.pricing-box-lg {
+    padding: 90px 0;
+    margin: 0;
+    background-color: #34c6d3;
+}
+
+.pricing-box-lg h4.pricing-title {
+    color: #34c6d3;
+    background-color: #ffffff;
+}
+
+.pricing-box-lg ul.pricing-spec li p {
+    color: #ffffff;
+}
 /* 
    =========================================
                 PRICING END
