@@ -1,0 +1,497 @@
+commit 83db152c9d54e37a192398499ca9172d9708ad08
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Mon May 18 23:01:41 2020 +0800
+
+    added jquery lib plugins for counter effect.
+
+commit 3b577dfe712353d86054526b74264102f1c7d1bf
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sat May 16 18:25:35 2020 +0800
+
+    added desc of authoring styles for vesco code.
+
+commit 0876d4d7c6c373f1e9149c7cd78b8882185f6023
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sat May 16 18:14:34 2020 +0800
+
+    updated markup and styling for stats section.
+
+commit 9442da53a70de23cad902b48614195a6fd6215b1
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Apr 21 23:48:07 2020 +0800
+
+    updated markup content for stats section.
+
+commit 08a8c651eb210a96e54b94b1c17a44eb2870e4cd
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Apr 21 23:19:17 2020 +0800
+
+    added basic markup for stats section.
+
+commit e63208a5d2edfb06c67039a5c4d9abc687568014
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Wed Apr 15 23:52:04 2020 +0800
+
+    added custom styles for middle pricing box.
+
+commit 6b7cc89a615e156672919609d8428338994a0959
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Wed Apr 15 23:39:48 2020 +0800
+
+    updated css styles for pricing spec descriptions.
+
+commit 7287159329563e85c30aed68b0c6432d838d72d7
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Apr 14 23:48:48 2020 +0800
+
+    updated css styles pricing values.
+
+commit edab7b914964bd639615352f70f1755c28e2acd9
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Apr 14 23:41:36 2020 +0800
+
+    updated css styles pricing box labels.
+
+commit 3caf8b0e8c982c47d432a766876e9531d37f285e
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Apr 14 23:37:40 2020 +0800
+
+    updated css styles for pricing box.
+
+commit a530cc59879fe726d8ca759dccbb35d074cad493
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Fri Apr 3 00:11:34 2020 +0800
+
+    updated animation for individual pricing.
+
+commit 9159d6c139ab8c4a2fe71e23e619b7c2dc549715
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Thu Apr 2 23:56:52 2020 +0800
+
+    updated markup with additional contents for pricing.
+
+commit 72bb08cb717d8266745a74b29906b717e2666229
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Thu Apr 2 23:25:20 2020 +0800
+
+    added basic markup content for pricing section.
+
+commit 79f1a1c44cf59cd7f221a83552568b6de9ad050a
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Thu Apr 2 23:10:43 2020 +0800
+
+    updated wow carousel autoplaytimeout for testimonials.
+
+commit a9dd7b5f6250b789e5b40a9d45bf3cc355af53ee
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Thu Apr 2 21:59:40 2020 +0800
+
+    updated wow duration for animation.
+
+commit 2dfbd32812a0336c7a4fd09956e307b8b6d5dc82
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Feb 11 23:33:38 2020 +0800
+
+    updated styles for author section.
+
+commit b3a7d17918045d1eee82974764f1f65071eb60fd
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Feb 11 23:27:41 2020 +0800
+
+    updated styles of quotation marks.
+
+commit b3cd2639a61979c6e12147c145047e4d27f89c3b
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sun Feb 9 00:14:59 2020 +0800
+
+    added styles of quotation marks in testimonials.
+
+commit 098db9b8bcba0ca61e91138548bc50cd71f9ddb6
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sat Feb 8 23:56:37 2020 +0800
+
+    updated styles for image quoates.
+
+commit e353f148f251a1d421e5adcd2a1ff7a99dbaa913
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sat Feb 8 23:32:48 2020 +0800
+
+    updated styles of images for testimonials section.
+
+commit a690eef608a37bf4c1c21321a716ed564827b249
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Mon Dec 23 23:52:02 2019 +0800
+
+    added comment.
+
+commit fd57b9755deebb979c932ad2d3cf3482fbe2ade5
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sat Dec 21 01:19:59 2019 +0800
+
+    updated styles content title for testimonials section.
+
+commit b1b9ba1c50844e767629058ca6fd56885bbbd857
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sat Dec 21 01:13:58 2019 +0800
+
+    updated styles background image for testimonials section.
+
+commit edfc333c27e80b50162c0f12e3ff4f3a334e61f6
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Fri Dec 20 23:53:27 2019 +0800
+
+    added comment for carousel function.
+
+commit e3d08ac88fb54e5789f52cc2340bd2cf8011612c
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Fri Dec 20 23:52:14 2019 +0800
+
+    added & initialise owl carousel effect for testimonials section.
+
+commit 6cf5ae29e26b285b2948f4327abd02d03977f306
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Fri Dec 20 23:41:57 2019 +0800
+
+    added comment section js script.
+
+commit 08c6e2064b925f94fe17b96188fe279245225211
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Thu Dec 19 23:22:46 2019 +0800
+
+    removed space.
+
+commit 4fd4218645267a3222c4be75be88f5f5e7da245b
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Thu Dec 19 23:17:18 2019 +0800
+
+    updated markup testimonial section with images.
+
+commit 87426076447d427554257992111c07736432a62c
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Wed Dec 18 00:02:46 2019 +0800
+
+    updated markup basic structure of testimonials section.
+
+commit 424c1a7c01f07a3a681739dff4ff3a2c6619298e
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Dec 17 23:48:35 2019 +0800
+
+    updated markup team section, included container in content-box.
+
+commit 57290c92929e6ff516a01ab953d660904fa35f80
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Dec 17 23:42:20 2019 +0800
+
+    updated markup work section, included container-fluid in content-box.
+
+commit c3f810b3066a223a67810ed46f4b8f24254161b3
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Dec 17 00:06:02 2019 +0800
+
+    added section element for testimonials.
+
+commit ad940d6e229dc9eda8abaeafa34f46d6c2adde01
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Mon Dec 16 23:56:48 2019 +0800
+
+    added props hover pause, updated icons of team.
+
+commit 0c0d1b0275c0046ed320b5ecf4c38ecd93e3ef0b
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Mon Dec 16 23:25:15 2019 +0800
+
+    added generic styles for social icons of team section.
+
+commit 978e61e5d7e27baeaae0ac74695e74754e235ae5
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Fri Dec 13 00:30:06 2019 +0800
+
+    added styles for team section.
+
+commit 43f1e317523b702af24622baa08bd688c94c2f42
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Thu Dec 12 23:54:25 2019 +0800
+
+    updated options.
+
+commit cba1c0fbd8c402686808251c98e61f5bd527d244
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Thu Dec 12 23:46:24 2019 +0800
+
+    added autoplay interval timeout option.
+
+commit e89e4e19af3400b1593d25a237ae32255eda691c
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Thu Dec 12 23:43:33 2019 +0800
+
+    added options for owl function.
+
+commit ce4e28ae2f354831382485d93e9cb2bcc3fc8502
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Wed Dec 11 23:01:52 2019 +0800
+
+    added class for dots buttons carousel.
+
+commit 3d1a92c479aa60044534cbba100dff2d7a44ed7a
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Wed Dec 11 22:55:04 2019 +0800
+
+    initialised owl carousel function.
+
+commit 08c3d8694a053d3581e15c6c1dbb7c88aa9f57fe
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Wed Dec 11 22:37:11 2019 +0800
+
+    added js and css links owl carousel.
+
+commit c97997766542175ff05375103007abde38dc55a4
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Wed Dec 11 22:26:06 2019 +0800
+
+    added external libraries owl carousel for team section.
+
+commit acd1dc594f40432fe27cc4da38e0195bee515349
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Dec 10 23:43:00 2019 +0800
+
+    updated markup with team member sigle image sections for team.
+
+commit b3021bdbb1fe00f14beaed27aa9a87918cce6c98
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Mon Dec 9 23:38:36 2019 +0800
+
+    added markup title section for team section.
+
+commit ad17983e314148126c3518a3aa7c7ad045f5156f
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Mon Dec 9 23:29:35 2019 +0800
+
+    added initial section element for team.
+
+commit 4f785294b008c5b19eccd84dfb148d25d5530661
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Fri Dec 6 00:56:24 2019 +0800
+
+    updated image title descriptions gallery.
+
+commit 7640e094e0ed86eea429f28f474fabe9e384eb8a
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Fri Dec 6 00:50:23 2019 +0800
+
+    initialised popup gallery effect function for work.
+
+commit 791d29a4c2b1004421543b2933bb4b5cd120f4fe
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Fri Dec 6 00:04:14 2019 +0800
+
+    added magnific popup lib tags index.
+
+commit 6c60b3c1cdf011dd671697124f7c60706634f22e
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Thu Dec 5 23:56:13 2019 +0800
+
+    added magnific popup libraries.
+
+commit bdc16b0efca0a90e8f48827b65954b1b25e0fd96
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Thu Dec 5 23:30:46 2019 +0800
+
+    updated images for work section.
+
+commit c7daae76db182a32e6af29b898f365c0539e0f10
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Wed Dec 4 23:56:13 2019 +0800
+
+    added new images for work section.
+
+commit d8f9712f99340978a1746c80f97df83bc0219abe
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Wed Dec 4 00:02:49 2019 +0800
+
+    updated zoom effect on images work section.
+
+commit db9d7472dd89f2305a8c56687783f31b388992aa
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Dec 3 23:54:31 2019 +0800
+
+    added zoom effect on images.
+
+commit 4e64277d752341e58564c33df367c238db614bd7
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Dec 3 23:38:22 2019 +0800
+
+    updated with container-fluid and added styles adjusting images.
+
+commit 585d9ea7c2b42f89a029202c387e230ec130083b
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sat Nov 30 23:43:06 2019 +0800
+
+    added images to work section.
+
+commit 9544ae6079f4db5593c4b4645c4ef38b115eaef9
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Nov 26 22:55:16 2019 +0800
+
+    added animations class to row class.
+
+commit a7ae35d197d31195bed3d4445b25dba10c74c6dc
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Nov 26 22:48:50 2019 +0800
+
+    updated markup portfolios work section.
+
+commit 509e365c3c89d36a180b43393c7127dfd10e05cb
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Thu Nov 21 23:44:56 2019 +0800
+
+    removed unnecessary spaces.
+
+commit f91fe904dea2fad43e6dd414d53254497505d178
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Thu Nov 21 23:43:29 2019 +0800
+
+    added section element for portfolios/work.
+
+commit acc761a24f020c27baec8607f8d1803f20b8694a
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Wed Nov 20 23:21:54 2019 +0800
+
+    updated styles, added diagonal background with image for about section.
+
+commit 58eff2338adfa9fcb03a08363086ebfc1ca52ac4
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Nov 19 16:30:00 2019 +0800
+
+    updated markup and styles and animations for about section.
+
+commit 35d26ca8784e5564ffedc2c273054b46080188e5
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Nov 19 14:08:31 2019 +0800
+
+    updated markup for about us section.
+
+commit c280489f199a4af313a7a2220201c531cc5fc31f
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Nov 19 11:24:06 2019 +0800
+
+    added .gitattributes.
+
+commit 66f95a7ee444436bc7dda3d5f8f1031a388615ed
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Mon Nov 18 23:40:12 2019 +0800
+
+    updated wow class attributes.
+
+commit c47120d6cc554c4501faba79482a7d5ff2013be2
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Mon Nov 18 23:35:41 2019 +0800
+
+    initialised wowjs and added wow class attributes for animations.
+
+commit 582fbadf968a25784a531a582d801531726cb532
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sun Nov 17 16:40:39 2019 +0800
+
+    added wow.js plugin for pretty animations.
+
+commit c39601442fae54b41530bc2b46ba0d3b208e6583
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sun Nov 17 15:19:46 2019 +0800
+
+    updated markup and styles for services and solutions section.
+
+commit c076aed2f4e4907b96dd57479bbf28a0778fe77b
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sat Nov 16 19:08:40 2019 +0800
+
+    completed markup content for services and solutions section.
+
+commit c64a22f2957ce396c99941f72e53d907c885907e
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Fri Nov 15 23:23:44 2019 +0800
+
+    updated markup content for services and solution sections.
+
+commit e7150bdbc2c2ae783e43356ffa1851047063e78b
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Fri Nov 15 23:05:38 2019 +0800
+
+    added effect to the white button in home section.
+
+commit eefec0267af66e6661934f12015290f46f7ff4eb
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Wed Nov 13 00:28:38 2019 +0800
+
+    updated animation effect with styles for home section.
+
+commit d3a12b6cc26d14df1d5394ac1719deee4b3033db
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Wed Nov 13 00:10:29 2019 +0800
+
+    added animation into home section.
+
+commit cdef6ca2d1eda485354543a4f5c1ed94c98d0ef4
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Nov 12 23:53:49 2019 +0800
+
+    added and imported animate.css for animation.
+
+commit 7d14105a024b1f32821c81bffe835e356b32e11b
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Tue Nov 12 23:40:57 2019 +0800
+
+    added parallax scrolling effect on home section.
+
+commit e0bf4a970c6b5f2a2cd896dd00d46ba7b72f2284
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sun Nov 10 23:35:21 2019 +0800
+
+    updated home section for heading and button with styles.
+
+commit 40962b44d99afe181a7aa5811095e3725a6ac8b8
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sun Nov 10 18:06:04 2019 +0800
+
+    added home section with styles.
+
+commit 1adcaa8891162adfea9e63c989d12de9ee71ade3
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sat Nov 9 23:23:48 2019 +0800
+
+    added bootstrap css and js libraries.
+
+commit e011b1adf55d9c956960b6c7c6858cc640c938f5
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sat Nov 9 23:03:16 2019 +0800
+
+    updated styles for fonts and color. added font awesome lib.
+
+commit 64b052e4dbe3b219f89b8bdcca18070e85824b63
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sat Nov 9 18:55:33 2019 +0800
+
+    added external google fonts.
+
+commit 71d6297d89ffbc32f7db67b6d833e01e20b1aa5d
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sat Nov 9 18:25:42 2019 +0800
+
+    updated and added basic structure of website.
+
+commit 641ffe047f73f52cf7591c38a84c46d10b4ce4a2
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Sat Nov 9 17:31:17 2019 +0800
+
+    updated the descriptions in README.md.
+
+commit bde6f9ad3a110d0ac586183d4af43c9b955945ab
+Author: Hafidz <halfpheez92@gmail.com>
+Date:   Fri Nov 1 18:00:56 2019 +0800
+
+    created an initial base site framework for development.
+
+commit a4ac7e9177e5c273d7f1f88e76734a7f67c4def0
+Author: Prison Mike <MuhammadHafidzMisrudin@users.noreply.github.com>
+Date:   Fri Nov 1 17:50:12 2019 +0800
+
+    Initial commit
