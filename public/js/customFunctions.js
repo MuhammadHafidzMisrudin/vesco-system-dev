@@ -68,3 +68,17 @@ $(() => {
         autoplayHoverPause: true
     });
 });
+
+/* 
+=============================================
+                STATISTICS/STATS
+=============================================
+*/
+// make functions available after page is empty.
+$(() => {
+    // call the counterup function to activate the counter effect.
+    $('.counter').counterUp({
+        delay: 10,
+        time: 3000
+    });
+});
