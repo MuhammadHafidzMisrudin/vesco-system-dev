@@ -2,7 +2,7 @@
     Author: Muhammad Hafidz Misrudin
     Description: Proprietary (no permission for copy or use or redistribution)
     Date written: 18/11/2019
-    Date last updated: 16/05/2020
+    Date last updated: 19/05/2020
 */
 
 /* 
@@ -12,6 +12,7 @@
 */
 // make functions available after page is empty.
 $(() => {
+    // initialise wow animation effect.
     // animate on scrolling.
     new WOW().init();
 });
@@ -42,7 +43,7 @@ $(() => {
 $(() => {
     // call the owl initializer function.
     $("#team-members-wrapper.owl-carousel").owlCarousel({
-        items: 3, /* to display 3 items at a time in slider */
+        items: 3, // to display 3 items at a time in slider.
         autoplay: true,
         loop: true,
         autoplayTimeout:2000,
@@ -60,7 +61,7 @@ $(() => {
 $(() => {
     // call the owl initializer function.
     $("#customer-testimonials.owl-carousel").owlCarousel({
-        items: 1, /* to display 1 item at a time in slider */
+        items: 1, // to display 1 item at a time in slider.
         autoplay: true,
         loop: true,
         autoplayTimeout:3000,
@@ -77,7 +78,9 @@ $(() => {
 // make functions available after page is empty.
 $(() => {
     // call the counterup function to activate the counter effect.
-    $('.counter').counterUp({
+    // disable temporarily.
+    // selector class should be add $(".stats-item .counter")to activate it.
+    $(".disable").counterUp({
         delay: 10,
         time: 3000
     });
