@@ -10,7 +10,7 @@
            SERVICES AND SOLUTIONS
 =============================================
 */
-// make functions available after page is empty.
+// make functions available after page is empty/rendered.
 $(() => {
     // initialise wow animation effect.
     // animate on scrolling.
@@ -22,7 +22,7 @@ $(() => {
            PORTFOLIOS & WORK
 =============================================
 */
-// make functions available after page is empty.
+// make functions available after page is empty/rendered.
 $(() => {
     // magnific popup initialization. 
     $('#work').magnificPopup({
@@ -39,7 +39,7 @@ $(() => {
                     TEAM
 =============================================
 */
-// make functions available after page is empty.
+// make functions available after page is empty/rendered.
 $(() => {
     // call the owl initializer function.
     $("#team-members-wrapper.owl-carousel").owlCarousel({
@@ -57,7 +57,7 @@ $(() => {
                 TESTIMONIALS
 =============================================
 */
-// make functions available after page is empty.
+// make functions available after page is empty/rendered.
 $(() => {
     // call the owl initializer function.
     $("#customer-testimonials.owl-carousel").owlCarousel({
@@ -75,7 +75,7 @@ $(() => {
                 STATISTICS/STATS
 =============================================
 */
-// make functions available after page is empty.
+// make functions available after page is empty/rendered.
 $(() => {
     // call the counterup function to activate the counter effect.
     // disable temporarily.
@@ -83,5 +83,22 @@ $(() => {
     $(".disable").counterUp({
         delay: 10,
         time: 3000
+    });
+});
+
+/* 
+=============================================
+                 CLIENTS
+=============================================
+*/
+// make functions available after page is empty/rendered.
+$(() => {
+    // call the owl initializer function.
+    $("#clients-list.owl-carousel").owlCarousel({
+        items: 6,
+        autoplay: true,
+        loop: true,
+        smartSpeed: 700,
+        autoplayHoverPause: true
     });
 });
