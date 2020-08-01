@@ -431,6 +431,10 @@ p {
     color: #64707b;
 }
 
+.icon-white i {
+    color: #ffffff;
+}
+
 /* mouseover/hover effect for color change */
 .social-icon i:hover {
     color: #34c6d3;
@@ -639,5 +643,48 @@ ul.pricing-spec li p {
 /* 
    =========================================
                 CLIENTS END
+   =========================================  
+*/
+
+
+/* 
+   =========================================
+                  CONTACT
+   =========================================  
+*/
+footer {
+    background-color: #41464b;
+    padding-top: 30px;
+    border-top: 5px solid rgba(0, 0, 0, 0.1);
+}
+
+#contact-left h3 {
+    color: #ffffff;
+    font-size: 27px;
+    font-weight: 700;
+}
+
+#contact-left p {
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+#contact-info {
+    background-image: url("../img/world-map.png");
+    background-repeat: no-repeat;
+    background-size: contain; /* to scale the background image to the largest size and to fit inside div area */
+}
+
+address {
+    color: #ffffff;
+}
+
+address strong, 
+#phone-fax-email strong {
+    letter-spacing: 1px;
+}
+/* 
+   =========================================
+                CONTACT END
    =========================================  
 */
